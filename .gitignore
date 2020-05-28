@@ -1,4 +1,8 @@
 *
 !.*
 !.config/**
+!.gitignore
+!.local/bin/**
+
 .config/nvim/plugged/**
+.config/chromium/**
