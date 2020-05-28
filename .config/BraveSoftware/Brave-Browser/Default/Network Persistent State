@@ -1,0 +1,1 @@
+{"net":{"http_server_properties":{"servers":[{"isolation":[],"server":"https://customer-stories-feed.github.com","supports_spdy":true},{"isolation":[],"server":"https://www.google-analytics.com","supports_spdy":true},{"isolation":[],"server":"https://github.githubassets.com","supports_spdy":true}],"version":5},"network_qualities":{"CAISBFRKSlQYgICAgPj/////AQ==":"4G"}}}

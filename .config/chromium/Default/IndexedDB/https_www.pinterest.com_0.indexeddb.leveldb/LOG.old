@@ -1,0 +1,15 @@
+2020/05/28-00:15:26.723 1b4b Reusing MANIFEST /home/mojojojo/.config/chromium/Default/IndexedDB/https_www.pinterest.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/28-00:15:26.723 1b4b Recovering log #4
+2020/05/28-00:15:26.723 1b4b Reusing old log /home/mojojojo/.config/chromium/Default/IndexedDB/https_www.pinterest.com_0.indexeddb.leveldb/000004.log 
+2020/05/28-00:16:38.100 1e1c Level-0 table #8: started
+2020/05/28-00:16:38.105 1e1c Level-0 table #8: 15491 bytes OK
+2020/05/28-00:16:38.107 1e1c Delete type=0 #4
+2020/05/28-00:16:38.107 1e1c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/05/28-00:16:38.107 1e1c Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01 \x03\x00\xd0\xfa\xacn%wB\x00\x01l\x00p\x00i\x00n\x00t\x00e\x00r\x00e\x00s\x00t\x00-\x00r\x00u\x00n\x00t\x00i\x00m\x00e\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00s\x00.\x00p\x00i\x00n\x00i\x00m\x00g\x00.\x00c\x00o\x00m\x00/\x00w\x00e\x00b\x00a\x00p\x00p\x00/\x00j\x00s\x00/\x00B\x00o\x00a\x00r\x00d\x00A\x00c\x00t\x00i\x00v\x00i\x00t\x00y\x00P\x00i\x00n\x00R\x00e\x00p\x00R\x00e\x00a\x00c\x00t\x00i\x00o\x00n\x00s\x00C\x00o\x00m\x00m\x00o\x00n\x00-\x00e\x00c\x006\x00f\x000\x00a\x00c\x001\x00d\x003\x004\x00d\x005\x00d\x008\x002\x002\x009\x007\x00e\x00.\x00m\x00j\x00s' @ 447 : 1
+2020/05/28-00:16:38.107 1e1c Compacting 1@1 + 1@2 files
+2020/05/28-00:16:38.110 1e1c Generated table #9@1: 85 keys, 7360 bytes
+2020/05/28-00:16:38.110 1e1c Compacted 1@1 + 1@2 files => 7360 bytes
+2020/05/28-00:16:38.112 1e1c compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/05/28-00:16:38.112 1e1c Delete type=2 #5
+2020/05/28-00:16:38.112 1e1c Delete type=2 #8
+2020/05/28-00:16:38.113 1e1c Manual compaction at level-1 from '\x00\x01\x01 \x03\x00\xd0\xfa\xacn%wB\x00\x01l\x00p\x00i\x00n\x00t\x00e\x00r\x00e\x00s\x00t\x00-\x00r\x00u\x00n\x00t\x00i\x00m\x00e\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00s\x00.\x00p\x00i\x00n\x00i\x00m\x00g\x00.\x00c\x00o\x00m\x00/\x00w\x00e\x00b\x00a\x00p\x00p\x00/\x00j\x00s\x00/\x00B\x00o\x00a\x00r\x00d\x00A\x00c\x00t\x00i\x00v\x00i\x00t\x00y\x00P\x00i\x00n\x00R\x00e\x00p\x00R\x00e\x00a\x00c\x00t\x00i\x00o\x00n\x00s\x00C\x00o\x00m\x00m\x00o\x00n\x00-\x00e\x00c\x006\x00f\x000\x00a\x00c\x001\x00d\x003\x004\x00d\x005\x00d\x008\x002\x002\x009\x007\x00e\x00.\x00m\x00j\x00s' @ 447 : 1 .. (end); will stop at (end)

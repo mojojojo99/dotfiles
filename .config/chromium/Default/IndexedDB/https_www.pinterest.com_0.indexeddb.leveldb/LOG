@@ -1,0 +1,15 @@
+2020/05/28-00:20:01.758 34c Reusing MANIFEST /home/mojojojo/.config/chromium/Default/IndexedDB/https_www.pinterest.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/28-00:20:01.758 34c Recovering log #7
+2020/05/28-00:20:01.758 34c Reusing old log /home/mojojojo/.config/chromium/Default/IndexedDB/https_www.pinterest.com_0.indexeddb.leveldb/000007.log 
+2020/05/28-00:20:35.269 683 Level-0 table #12: started
+2020/05/28-00:20:35.273 683 Level-0 table #12: 12164 bytes OK
+2020/05/28-00:20:35.276 683 Delete type=0 #7
+2020/05/28-00:20:35.276 683 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/05/28-00:20:35.276 683 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01 \x03\x00@\xea\xefn%wB\x00\x01`\x00p\x00i\x00n\x00t\x00e\x00r\x00e\x00s\x00t\x00-\x00r\x00u\x00n\x00t\x00i\x00m\x00e\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00s\x00.\x00p\x00i\x00n\x00i\x00m\x00g\x00.\x00c\x00o\x00m\x00/\x00w\x00e\x00b\x00a\x00p\x00p\x00/\x00j\x00s\x00/\x00F\x00l\x00a\x00s\x00h\x00l\x00i\x00g\x00h\x00t\x00B\x00u\x00t\x00t\x00o\x00n\x00C\x00o\x00m\x00m\x00o\x00n\x00-\x00c\x00f\x00b\x00c\x005\x002\x000\x00f\x004\x005\x003\x00d\x009\x00c\x001\x001\x001\x00c\x006\x003\x00.\x00m\x00j\x00s' @ 696 : 1
+2020/05/28-00:20:35.276 683 Compacting 1@1 + 1@2 files
+2020/05/28-00:20:35.279 683 Generated table #13@1: 86 keys, 7493 bytes
+2020/05/28-00:20:35.279 683 Compacted 1@1 + 1@2 files => 7493 bytes
+2020/05/28-00:20:35.281 683 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/05/28-00:20:35.281 683 Delete type=2 #12
+2020/05/28-00:20:35.281 683 Delete type=2 #9
+2020/05/28-00:20:35.282 683 Manual compaction at level-1 from '\x00\x01\x01 \x03\x00@\xea\xefn%wB\x00\x01`\x00p\x00i\x00n\x00t\x00e\x00r\x00e\x00s\x00t\x00-\x00r\x00u\x00n\x00t\x00i\x00m\x00e\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00s\x00.\x00p\x00i\x00n\x00i\x00m\x00g\x00.\x00c\x00o\x00m\x00/\x00w\x00e\x00b\x00a\x00p\x00p\x00/\x00j\x00s\x00/\x00F\x00l\x00a\x00s\x00h\x00l\x00i\x00g\x00h\x00t\x00B\x00u\x00t\x00t\x00o\x00n\x00C\x00o\x00m\x00m\x00o\x00n\x00-\x00c\x00f\x00b\x00c\x005\x002\x000\x00f\x004\x005\x003\x00d\x009\x00c\x001\x001\x001\x00c\x006\x003\x00.\x00m\x00j\x00s' @ 696 : 1 .. (end); will stop at (end)

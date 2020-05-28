@@ -1,0 +1,18 @@
+2020/05/28-08:45:43.046 801 Reusing MANIFEST /home/mojojojo/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2020/05/28-08:45:43.046 801 Recovering log #60
+2020/05/28-08:45:43.046 801 Reusing old log /home/mojojojo/.config/chromium/Default/Local Storage/leveldb/000060.log 
+2020/05/28-08:49:17.990 a7f Level-0 table #64: started
+2020/05/28-08:49:17.997 a7f Level-0 table #64: 92019 bytes OK
+2020/05/28-08:49:17.999 a7f Delete type=0 #60
+2020/05/28-08:52:47.636 a7f Level-0 table #66: started
+2020/05/28-08:52:47.644 a7f Level-0 table #66: 85267 bytes OK
+2020/05/28-08:52:47.646 a7f Delete type=0 #63
+2020/05/28-08:52:47.646 a7f Compacting 4@0 + 1@1 files
+2020/05/28-08:52:47.668 a7f Generated table #67@0: 484 keys, 534061 bytes
+2020/05/28-08:52:47.668 a7f Compacted 4@0 + 1@1 files => 534061 bytes
+2020/05/28-08:52:47.671 a7f compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/05/28-08:52:47.671 a7f Delete type=2 #64
+2020/05/28-08:52:47.671 a7f Delete type=2 #56
+2020/05/28-08:52:47.671 a7f Delete type=2 #66
+2020/05/28-08:52:47.671 a7f Delete type=2 #61
+2020/05/28-08:52:47.671 a7f Delete type=2 #59

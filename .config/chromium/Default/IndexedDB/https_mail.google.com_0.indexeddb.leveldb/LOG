@@ -1,0 +1,15 @@
+2020/05/28-00:20:05.559 362 Reusing MANIFEST /home/mojojojo/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/28-00:20:05.559 362 Recovering log #4
+2020/05/28-00:20:05.569 362 Reusing old log /home/mojojojo/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000004.log 
+2020/05/28-00:20:45.938 683 Level-0 table #8: started
+2020/05/28-00:20:45.971 683 Level-0 table #8: 1113248 bytes OK
+2020/05/28-00:20:45.977 683 Delete type=0 #4
+2020/05/28-00:20:45.978 683 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/05/28-00:20:45.978 683 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x08\x01\x02\x01\x1c\x00S\x00t\x00o\x00r\x00e\x00d\x00C\x00a\x00c\x00h\x00e\x00S\x00t\x00a\x00t\x00e\x00:\x00:\x00/\x00m\x00a\x00i\x00l\x00/\x00u\x00/\x000\x00/' @ 113 : 1
+2020/05/28-00:20:45.978 683 Compacting 1@1 + 1@2 files
+2020/05/28-00:20:45.988 683 Generated table #9@1: 130 keys, 99998 bytes
+2020/05/28-00:20:45.988 683 Compacted 1@1 + 1@2 files => 99998 bytes
+2020/05/28-00:20:45.989 683 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/05/28-00:20:45.990 683 Delete type=2 #5
+2020/05/28-00:20:45.990 683 Delete type=2 #8
+2020/05/28-00:20:45.990 683 Manual compaction at level-1 from '\x00\x08\x01\x02\x01\x1c\x00S\x00t\x00o\x00r\x00e\x00d\x00C\x00a\x00c\x00h\x00e\x00S\x00t\x00a\x00t\x00e\x00:\x00:\x00/\x00m\x00a\x00i\x00l\x00/\x00u\x00/\x000\x00/' @ 113 : 1 .. (end); will stop at (end)

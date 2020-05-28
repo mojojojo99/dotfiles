@@ -1,4 +1,4 @@
 *
 !.*
-!.config/*
-!.config/polybar
+!.config/**
+.config/nvim/plugged/**

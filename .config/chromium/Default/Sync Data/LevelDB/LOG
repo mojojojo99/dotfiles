@@ -1,0 +1,6 @@
+2020/05/28-08:45:43.045 807 Reusing MANIFEST /home/mojojojo/.config/chromium/Default/Sync Data/LevelDB/MANIFEST-000001
+2020/05/28-08:45:43.045 807 Recovering log #49
+2020/05/28-08:45:43.046 807 Reusing old log /home/mojojojo/.config/chromium/Default/Sync Data/LevelDB/000049.log 
+2020/05/28-08:56:19.174 9e7 Level-0 table #54: started
+2020/05/28-08:56:19.179 9e7 Level-0 table #54: 114947 bytes OK
+2020/05/28-08:56:19.181 9e7 Delete type=0 #49

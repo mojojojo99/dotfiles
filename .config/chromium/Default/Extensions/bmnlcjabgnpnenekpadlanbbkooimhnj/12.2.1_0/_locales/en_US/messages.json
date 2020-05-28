@@ -1,0 +1,44 @@
+{
+   "Click_to_claim_VALUE": {
+      "message": "That’s {VALUE}!"
+   },
+   "Create_a_free_account_to_claim_your_rewards_Once_you_reach_1000_Gold_redeem_it_for_a_10_gift_card": {
+      "message": "Create a free account to claim your rewards. Once you reach 1,000 Gold, redeem it for a $$10 gift card."
+   },
+   "GOLDVALUE_Gold_will_be_credited_to_your_account_once_STORENAME_confirms_your_purchase": {
+      "message": "{GOLDVALUE} Gold ($${DOLLARVALUE} value) will be credited to your account once {STORENAME} confirms your purchase."
+   },
+   "Get_500_Honey_Gold_for_every_friend": {
+      "message": "Get $$5 worth of Gold for every friend."
+   },
+   "Love_Honey_Get_500_Gold_for_every_friend_you_refer_and_redeem_your_Gold_points_for_gift_cards_at_some_of_the_most_popular_stores_Just_copy_and_share_the_link_below_to_get_started": {
+      "message": "Love Honey? Get $$5 worth of Gold for every friend you refer, and redeem your Gold points for gift cards at some of the most popular stores. Just copy and share the link below to get started!"
+   },
+   "Once_you_earn_1000_Gold_you_can_redeem_it_for_a_10_gift_card": {
+      "message": "Once you earn 1,000 Gold, you can redeem it for a $$10 gift card."
+   },
+   "Once_you_earn_1000_Honey_Gold_you_can_redeem_it_for_a_10_gift_card_from_stores_like_Amazon_Target_and_Walmart": {
+      "message": "Once you earn 1,000 Honey Gold, you can redeem it for a $$10 gift card from stores like Amazon, Target and Walmart."
+   },
+   "Redeem_1000_Gold_for_a_10_gift_card_from_some_of_your_favorite_stores": {
+      "message": "Redeem 1,000 Gold for a $$10 gift card from some of your favorite stores."
+   },
+   "Share_Honey_and_get_500_Gold_for_each_friend_you_refer_using_your_unique_link": {
+      "message": "Share Honey and get $$5 worth of Gold for each friend you refer using your unique link:"
+   },
+   "Thats_up_to_GOLDMAX_Gold_Redeem_1000_Honey_Gold_for_a_10_gift_card": {
+      "message": "That's up to {GOLDMAX} Gold. Redeem 1,000 Honey Gold for a $$10 gift card."
+   },
+   "This_store_doesnt_have_any_working_codes_but_Honey_has_you_covered_with_up_to_GOLDVALUE_Honey_Gold_back_on_your_purchase_Redeem_Gold_for_a_Gift_Card": {
+      "message": "This store doesn’t have any working codes, but Honey has you covered with up to {GOLDVALUE} Honey Gold back on your purchase. Redeem 1000 Gold for a $$10 Gift Card."
+   },
+   "Well_credit_GOLDVALUE_GOLDCURRENCYVALUE_value_to_your_Honey_account_as_soon_as_STORENAME_confirms_your_purchase": {
+      "message": "We’ll credit {GOLDVALUE} ($${GOLDCURRENCYVALUE} value) to your Honey account as soon as {STORENAME} confirms your purchase."
+   },
+   "Well_credit_GOLDVALUE_GOLDCURRENCYVALUE_value_to_your_Honey_account_as_soon_as_STORENAME_confirms_your_purchase_of_at_least_MINVALUE": {
+      "message": "We’ll credit {GOLDVALUE} ($${GOLDCURRENCYVALUE} value) to your Honey account as soon as {STORENAME} confirms your purchase of at least {MINVALUE}."
+   },
+   "When_you_shop_at_any_of_our_5500_participating_sites_youll_earn_a_percentage_back_in_Honey_Gold_Redeem_Gold_for_a_gift_card_from_some_of_your_favorite_stores": {
+      "message": "When you shop at any of our 5,500+ participating sites, you’ll earn a percentage back in Honey Gold. Redeem 1,000 Gold for a $$10 gift card from some of your favorite stores."
+   }
+}

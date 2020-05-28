@@ -1,0 +1,25 @@
+{
+   "author": "Marat Valiev",
+   "browser_action": {
+      "default_icon": {
+         "128": "icon.png"
+      },
+      "default_popup": "options.html",
+      "default_title": "About CMUnits"
+   },
+   "content_scripts": [ {
+      "js": [ "content.js" ],
+      "matches": [ "https://s3.andrew.cmu.edu/sio/*" ],
+      "run_at": "document_start"
+   } ],
+   "description": "Extends CMU Student Information Online interface with more data",
+   "icons": {
+      "128": "icon.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgT129th6WsSq8mzXj3HZldU7+FH9tLVK7eMU4h2sWHhCMT/S9mNutlYtFkKzR47cbWEu0Q55g3NJOspCuahqeLO+m+L+qc0YCivMkZZ3d/tV+UzMpnFln3s3oMxlck6ROyph2f7r6+kFSJcGi5zlDzOVcomag2zJmK+MfQlCB3q8p75htnIn7zwFN0rCydL+2zLivAYkvgUr32RWjyPEIs+BdcQfevidKsgiOAwAIx8pGfNO9yyLV8wbjjF9J1DNKdS+/GqSccKzlgBlBdHXx6EpdBzpVr1gjfq2PMsJzO3xSIztcItcBR9vfFw+Bmfcbnr5akJ/ORJ9sejMXvKkGwIDAQAB",
+   "manifest_version": 2,
+   "name": "CMUnits",
+   "permissions": [ "https://cmu-student-government.github.io/", "activeTab", "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.0.1.4"
+}

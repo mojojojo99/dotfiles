@@ -1,0 +1,20 @@
+2020/05/28-08:45:43.412 806 Reusing MANIFEST /home/mojojojo/.config/chromium/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/MANIFEST-000001
+2020/05/28-08:45:43.413 806 Recovering log #93
+2020/05/28-08:45:43.413 806 Reusing old log /home/mojojojo/.config/chromium/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/000093.log 
+2020/05/28-08:46:44.407 9e7 Level-0 table #97: started
+2020/05/28-08:46:44.469 9e7 Level-0 table #97: 5276701 bytes OK
+2020/05/28-08:46:44.471 9e7 Delete type=0 #93
+2020/05/28-08:46:44.473 9e7 Compacting 4@0 + 2@1 files
+2020/05/28-08:46:44.574 9e7 Generated table #98@0: 1 keys, 5276540 bytes
+2020/05/28-08:46:44.577 9e7 Generated table #99@0: 3 keys, 452 bytes
+2020/05/28-08:46:44.577 9e7 Compacted 4@0 + 2@1 files => 5276992 bytes
+2020/05/28-08:46:44.579 9e7 compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/05/28-08:46:44.579 9e7 Delete type=2 #92
+2020/05/28-08:46:44.579 9e7 Delete type=2 #86
+2020/05/28-08:46:44.579 9e7 Delete type=2 #89
+2020/05/28-08:46:44.579 9e7 Delete type=2 #87
+2020/05/28-08:46:44.579 9e7 Delete type=2 #94
+2020/05/28-08:46:44.579 9e7 Delete type=2 #97
+2020/05/28-08:49:02.949 9e7 Level-0 table #101: started
+2020/05/28-08:49:03.014 9e7 Level-0 table #101: 5276785 bytes OK
+2020/05/28-08:49:03.016 9e7 Delete type=0 #96
