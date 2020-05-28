@@ -22,6 +22,14 @@ for_window [class="^.*"] border pixel 2
 gaps inner $inner_gaps
 gaps outer $outer_gaps
 
+# Theme colors
+client.focused #94FFF1 #C9C9C9 #FFFFFF #94FFF1   #94FFF1
+client.focused_inactive          #2C4956 #C9C9C9 #2C4956 #2C4956   #2C4956
+client.unfocused          #2C4956 #C9C9C9 #2C4956 #2C4956   #2C4956
+client.unfocused          #2C4956 #C9C9C9 #2C4956 #2C4956   #2C4956
+client.urgent #BC98A2 #030C1A #BC98A2 #F3555A #F3555A
+client.placeholder #BC98A2 #030C1A #BC98A2 #F3555A #F3555A
+
 # #---Dropdown Windows---# #
 # General dropdown window traits. The order can matter.
 for_window [instance="dropdown_*"] floating enable
@@ -357,4 +365,5 @@ bindsym XF86Documents		exec $term -e lf ~/Documents
 ##bindsym XF86Battery		exec
 ##bindsym XF86Bluetooth		exec
 bindsym XF86WLAN		exec $netrefresh
-exec_always --no-startup-id notify-send -i ~/.local/share/larbs/larbs.png 'Welcome to LARBS:' 'Press Super+F1 for the manual.' -t 10000
+exec_always --no-startup-id killall polybar; ~/.config/polybar/launch.sh &;
+# exec_always --no-startup-id notify-send -i ~/.local/share/larbs/larbs.png 'Welcome to LARBS:' 'Press Super+F1 for the manual.' -t 10000

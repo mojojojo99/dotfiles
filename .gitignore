@@ -4,7 +4,6 @@
 !.gitignore
 !.local/**
 
+.config/chromium/
 .config/nvim/plugged/**
-.config/chromium/**
-.config/chromium/*
 .config/chromium/Default/**
