@@ -1,15 +1,3 @@
-2020/05/28-13:56:25.827 341 Reusing MANIFEST /home/mojojojo/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
-2020/05/28-13:56:25.828 341 Recovering log #165
-2020/05/28-13:56:25.828 341 Reusing old log /home/mojojojo/.config/chromium/Default/Local Storage/leveldb/000165.log 
-2020/05/28-13:57:26.873 4c9 Level-0 table #169: started
-2020/05/28-13:57:26.877 4c9 Level-0 table #169: 88049 bytes OK
-2020/05/28-13:57:26.878 4c9 Delete type=0 #165
-2020/05/28-13:57:26.878 4c9 Compacting 4@0 + 1@1 files
-2020/05/28-13:57:26.889 4c9 Generated table #170@0: 809 keys, 569794 bytes
-2020/05/28-13:57:26.889 4c9 Compacted 4@0 + 1@1 files => 569794 bytes
-2020/05/28-13:57:26.890 4c9 compacted to: files[ 0 1 1 0 0 0 0 ]
-2020/05/28-13:57:26.890 4c9 Delete type=2 #166
-2020/05/28-13:57:26.890 4c9 Delete type=2 #169
-2020/05/28-13:57:26.890 4c9 Delete type=2 #163
-2020/05/28-13:57:26.890 4c9 Delete type=2 #158
-2020/05/28-13:57:26.890 4c9 Delete type=2 #161
+2020/05/28-17:35:19.567 10238 Reusing MANIFEST /home/mojojojo/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2020/05/28-17:35:19.568 10238 Recovering log #214
+2020/05/28-17:35:19.568 10238 Reusing old log /home/mojojojo/.config/chromium/Default/Local Storage/leveldb/000214.log 

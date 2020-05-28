@@ -1,5 +1,10 @@
-2020/05/28-01:36:38.133 b5f Recovering log #15
-2020/05/28-01:36:38.133 b5f Level-0 table #18: started
-2020/05/28-01:36:38.137 b5f Level-0 table #18: 1449 bytes OK
-2020/05/28-01:36:38.144 b5f Delete type=3 #13
-2020/05/28-01:36:38.144 b5f Delete type=0 #15
+2020/05/28-17:10:52.443 f34d Recovering log #30
+2020/05/28-17:10:52.443 f34d Level-0 table #33: started
+2020/05/28-17:10:52.446 f34d Level-0 table #33: 1893 bytes OK
+2020/05/28-17:10:52.450 f34d Delete type=2 #21
+2020/05/28-17:10:52.450 f34d Delete type=2 #29
+2020/05/28-17:10:52.450 f34d Delete type=0 #30
+2020/05/28-17:10:52.450 f34d Delete type=3 #28
+2020/05/28-17:10:52.450 f34d Delete type=2 #26
+2020/05/28-17:10:52.450 f34d Delete type=2 #16
+2020/05/28-17:10:52.450 f34d Delete type=2 #18

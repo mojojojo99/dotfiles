@@ -1,3 +1,9 @@
-2020/05/28-00:03:45.277 1b4b Reusing MANIFEST /home/mojojojo/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/05/28-00:03:45.278 1b4b Recovering log #4
-2020/05/28-00:03:45.285 1b4b Reusing old log /home/mojojojo/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000004.log 
+2020/05/28-17:35:01.568 100be Reusing MANIFEST /home/mojojojo/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/28-17:35:01.568 100be Recovering log #19
+2020/05/28-17:35:01.572 100be Reusing old log /home/mojojojo/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000019.log 
+2020/05/28-17:35:04.880 10194 Compacting 1@1 + 1@2 files
+2020/05/28-17:35:04.886 10194 Generated table #22@1: 86 keys, 37608 bytes
+2020/05/28-17:35:04.886 10194 Compacted 1@1 + 1@2 files => 37608 bytes
+2020/05/28-17:35:04.887 10194 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/05/28-17:35:04.888 10194 Delete type=2 #20
+2020/05/28-17:35:04.888 10194 Delete type=2 #17

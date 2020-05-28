@@ -1,20 +1,20 @@
-2020/05/28-13:56:26.290 35e Reusing MANIFEST /home/mojojojo/.config/chromium/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/MANIFEST-000001
-2020/05/28-13:56:26.290 35e Recovering log #176
-2020/05/28-13:56:26.290 35e Reusing old log /home/mojojojo/.config/chromium/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/000176.log 
-2020/05/28-13:57:27.275 4ca Level-0 table #180: started
-2020/05/28-13:57:27.330 4ca Level-0 table #180: 5276684 bytes OK
-2020/05/28-13:57:27.332 4ca Delete type=0 #176
-2020/05/28-13:57:27.333 4ca Compacting 4@0 + 2@1 files
-2020/05/28-13:57:27.401 4ca Generated table #181@0: 1 keys, 5276557 bytes
-2020/05/28-13:57:27.403 4ca Generated table #182@0: 3 keys, 454 bytes
-2020/05/28-13:57:27.403 4ca Compacted 4@0 + 2@1 files => 5277011 bytes
-2020/05/28-13:57:27.405 4ca compacted to: files[ 0 2 1 0 0 0 0 ]
-2020/05/28-13:57:27.405 4ca Delete type=2 #175
-2020/05/28-13:57:27.405 4ca Delete type=2 #180
-2020/05/28-13:57:27.405 4ca Delete type=2 #169
-2020/05/28-13:57:27.405 4ca Delete type=2 #177
-2020/05/28-13:57:27.405 4ca Delete type=2 #172
-2020/05/28-13:57:27.405 4ca Delete type=2 #170
-2020/05/28-13:58:55.743 4ca Level-0 table #184: started
-2020/05/28-13:58:55.805 4ca Level-0 table #184: 5276800 bytes OK
-2020/05/28-13:58:55.807 4ca Delete type=0 #179
+2020/05/28-17:35:19.993 1022f Reusing MANIFEST /home/mojojojo/.config/chromium/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/MANIFEST-000001
+2020/05/28-17:35:19.993 1022f Recovering log #248
+2020/05/28-17:35:19.993 1022f Reusing old log /home/mojojojo/.config/chromium/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/000248.log 
+2020/05/28-17:36:21.014 104a6 Level-0 table #252: started
+2020/05/28-17:36:21.066 104a6 Level-0 table #252: 5277578 bytes OK
+2020/05/28-17:36:21.069 104a6 Delete type=0 #248
+2020/05/28-17:36:21.070 104a6 Compacting 4@0 + 2@1 files
+2020/05/28-17:36:21.186 104a6 Generated table #253@0: 1 keys, 5276546 bytes
+2020/05/28-17:36:21.189 104a6 Generated table #254@0: 3 keys, 455 bytes
+2020/05/28-17:36:21.189 104a6 Compacted 4@0 + 2@1 files => 5277001 bytes
+2020/05/28-17:36:21.190 104a6 compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/05/28-17:36:21.191 104a6 Delete type=2 #247
+2020/05/28-17:36:21.191 104a6 Delete type=2 #244
+2020/05/28-17:36:21.191 104a6 Delete type=2 #249
+2020/05/28-17:36:21.191 104a6 Delete type=2 #252
+2020/05/28-17:36:21.191 104a6 Delete type=2 #241
+2020/05/28-17:36:21.191 104a6 Delete type=2 #242
+2020/05/28-17:38:09.957 104a6 Level-0 table #256: started
+2020/05/28-17:38:10.022 104a6 Level-0 table #256: 5276790 bytes OK
+2020/05/28-17:38:10.026 104a6 Delete type=0 #251

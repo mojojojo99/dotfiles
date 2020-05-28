@@ -1,4 +1,4 @@
-# vim: filetype=i3
+#vim: filetype=i3
 # File originally by Luke Smith <https://lukesmith.xyz>
 
 # This config file will use environmental variables such as $BROWSER and $TERMINAL.
@@ -19,6 +19,7 @@ set $hibernate sudo -A systemctl suspend
 
 # #---Gaps---# #
 for_window [class="^.*"] border pixel 2
+
 gaps inner $inner_gaps
 gaps outer $outer_gaps
 
@@ -83,7 +84,7 @@ bindsym $mod+w		        exec $term -e nmtui
 bindsym $mod+e			exec $term -e neomutt && pkill -RTMIN+12 i3blocks
 bindsym $mod+Shift+e		exec --no-startup-id tutorialvids
 
-bindsym $mod+r 			exec $term -e lf
+bindsym $mod+r 			exec $term -e ranger
 bindsym $mod+Shift+r		exec --no-startup-id winresize
 
 bindsym $mod+t			split toggle
@@ -142,7 +143,8 @@ bindsym $mod+Ctrl+l		move workspace to output right
 bindsym $mod+z			gaps outer current plus 5
 bindsym $mod+Shift+z		gaps outer current minus 5
 
-bindsym $mod+x			exec --no-startup-id xset dpms force off && mpc pause && pauseallmpv && slock &
+# bindsym $mod+x			exec --no-startup-id xset dpms force off && mpc pause && pauseallmpv && slock &
+bindsym $mod+x			exec --no-startup-id i3lock-fancy
 bindsym $mod+Shift+x		exec --no-startup-id prompt "Shutdown computer?" "$shutdown"
 
 bindsym $mod+c			exec --no-startup-id cabl

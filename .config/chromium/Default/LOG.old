@@ -1,13 +1,9 @@
-2020/05/28-01:34:04.785 5b9 Recovering log #12
-2020/05/28-01:34:04.785 5b9 Level-0 table #14: started
-2020/05/28-01:34:04.786 5b9 Level-0 table #14: 2425 bytes OK
-2020/05/28-01:34:04.790 5b9 Delete type=0 #12
-2020/05/28-01:34:04.790 5b9 Delete type=3 #10
-2020/05/28-01:34:04.790 560 Compacting 4@0 + 0@1 files
-2020/05/28-01:34:04.792 560 Generated table #16@0: 7 keys, 2180 bytes
-2020/05/28-01:34:04.792 560 Compacted 4@0 + 0@1 files => 2180 bytes
-2020/05/28-01:34:04.793 560 compacted to: files[ 0 1 0 0 0 0 0 ]
-2020/05/28-01:34:04.793 560 Delete type=2 #5
-2020/05/28-01:34:04.793 560 Delete type=2 #8
-2020/05/28-01:34:04.793 560 Delete type=2 #14
-2020/05/28-01:34:04.793 560 Delete type=2 #11
+2020/05/28-17:04:25.554 eb5a Recovering log #27
+2020/05/28-17:04:25.554 eb5a Level-0 table #29: started
+2020/05/28-17:04:25.559 eb5a Level-0 table #29: 1547 bytes OK
+2020/05/28-17:04:25.565 eb5a Delete type=3 #25
+2020/05/28-17:04:25.565 eb5a Delete type=0 #27
+2020/05/28-17:04:25.566 ed58 Compacting 4@0 + 1@1 files
+2020/05/28-17:04:25.568 ed58 Generated table #31@0: 8 keys, 2098 bytes
+2020/05/28-17:04:25.568 ed58 Compacted 4@0 + 1@1 files => 2098 bytes
+2020/05/28-17:04:25.570 ed58 compacted to: files[ 0 1 0 0 0 0 0 ]

@@ -1,15 +1,6 @@
-2020/05/28-13:56:25.820 342 Reusing MANIFEST /home/mojojojo/.config/chromium/Default/Sync Data/LevelDB/MANIFEST-000001
-2020/05/28-13:56:25.820 342 Recovering log #89
-2020/05/28-13:56:25.822 342 Reusing old log /home/mojojojo/.config/chromium/Default/Sync Data/LevelDB/000089.log 
-2020/05/28-13:59:00.120 4ca Level-0 table #93: started
-2020/05/28-13:59:00.132 4ca Level-0 table #93: 133698 bytes OK
-2020/05/28-13:59:00.135 4ca Delete type=0 #89
-2020/05/28-13:59:00.135 4ca Compacting 4@0 + 1@1 files
-2020/05/28-13:59:00.145 4ca Generated table #94@0: 96 keys, 20584 bytes
-2020/05/28-13:59:00.145 4ca Compacted 4@0 + 1@1 files => 20584 bytes
-2020/05/28-13:59:00.148 4ca compacted to: files[ 0 1 1 0 0 0 0 ]
-2020/05/28-13:59:00.148 4ca Delete type=2 #90
-2020/05/28-13:59:00.148 4ca Delete type=2 #83
-2020/05/28-13:59:00.148 4ca Delete type=2 #93
-2020/05/28-13:59:00.148 4ca Delete type=2 #88
-2020/05/28-13:59:00.148 4ca Delete type=2 #85
+2020/05/28-17:35:19.566 1022d Reusing MANIFEST /home/mojojojo/.config/chromium/Default/Sync Data/LevelDB/MANIFEST-000001
+2020/05/28-17:35:19.566 1022d Recovering log #126
+2020/05/28-17:35:19.568 1022d Reusing old log /home/mojojojo/.config/chromium/Default/Sync Data/LevelDB/000126.log 
+2020/05/28-17:38:23.409 104a6 Level-0 table #131: started
+2020/05/28-17:38:23.415 104a6 Level-0 table #131: 106893 bytes OK
+2020/05/28-17:38:23.416 104a6 Delete type=0 #126
