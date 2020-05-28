@@ -8,7 +8,7 @@
 # screen) and so they are needed there. To prevent doubling up commands, I
 # source them here with the line below.
 
-export STATUSBAR="i3blocks" # Uncomment this line when using i3.
+export STATUSBAR="polybar" # Uncomment this line when using i3.
 
 . ~/.xprofile
 
