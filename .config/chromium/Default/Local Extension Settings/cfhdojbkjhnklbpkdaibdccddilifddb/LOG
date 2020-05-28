@@ -18,3 +18,9 @@
 2020/05/28-08:49:02.949 9e7 Level-0 table #101: started
 2020/05/28-08:49:03.014 9e7 Level-0 table #101: 5276785 bytes OK
 2020/05/28-08:49:03.016 9e7 Delete type=0 #96
+2020/05/28-09:46:44.408 9e7 Level-0 table #103: started
+2020/05/28-09:46:44.462 9e7 Level-0 table #103: 5277096 bytes OK
+2020/05/28-09:46:44.464 9e7 Delete type=0 #100
+2020/05/28-09:46:52.440 9e7 Level-0 table #105: started
+2020/05/28-09:46:52.505 9e7 Level-0 table #105: 5276786 bytes OK
+2020/05/28-09:46:52.507 9e7 Delete type=0 #102

@@ -4,3 +4,24 @@
 2020/05/28-08:56:19.174 9e7 Level-0 table #54: started
 2020/05/28-08:56:19.179 9e7 Level-0 table #54: 114947 bytes OK
 2020/05/28-08:56:19.181 9e7 Delete type=0 #49
+2020/05/28-09:35:27.979 9e7 Level-0 table #56: started
+2020/05/28-09:35:27.987 9e7 Level-0 table #56: 114635 bytes OK
+2020/05/28-09:35:27.989 9e7 Delete type=0 #53
+2020/05/28-09:51:21.016 9e7 Level-0 table #58: started
+2020/05/28-09:51:21.021 9e7 Level-0 table #58: 111157 bytes OK
+2020/05/28-09:51:21.023 9e7 Delete type=0 #55
+2020/05/28-10:16:37.705 9e7 Level-0 table #60: started
+2020/05/28-10:16:37.710 9e7 Level-0 table #60: 98235 bytes OK
+2020/05/28-10:16:37.712 9e7 Delete type=0 #57
+2020/05/28-10:16:37.712 9e7 Compacting 4@0 + 1@1 files
+2020/05/28-10:16:37.716 9e7 Generated table #61@0: 96 keys, 16879 bytes
+2020/05/28-10:16:37.716 9e7 Compacted 4@0 + 1@1 files => 16879 bytes
+2020/05/28-10:16:37.717 9e7 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/05/28-10:16:37.717 9e7 Delete type=2 #56
+2020/05/28-10:16:37.717 9e7 Delete type=2 #54
+2020/05/28-10:16:37.717 9e7 Delete type=2 #51
+2020/05/28-10:16:37.717 9e7 Delete type=2 #58
+2020/05/28-10:16:37.717 9e7 Delete type=2 #60
+2020/05/28-10:31:56.210 9e7 Level-0 table #63: started
+2020/05/28-10:31:56.213 9e7 Level-0 table #63: 110202 bytes OK
+2020/05/28-10:31:56.215 9e7 Delete type=0 #59
