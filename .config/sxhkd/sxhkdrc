@@ -11,7 +11,8 @@
 super + Return
 	$TERMINAL
 super + d
-	dmenu_run
+	rofi -show drun
+	# dmenu_run
 super + r
 	$TERMINAL -e $FILE
 super + e

@@ -1,6 +1,11 @@
-2020/05/28-10:49:58.528 34f Reusing MANIFEST /home/mojojojo/.config/chromium/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/MANIFEST-000001
-2020/05/28-10:49:58.528 34f Recovering log #123
-2020/05/28-10:49:58.528 34f Reusing old log /home/mojojojo/.config/chromium/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/000123.log 
-2020/05/28-10:50:59.515 4b9 Level-0 table #127: started
-2020/05/28-10:50:59.568 4b9 Level-0 table #127: 5276649 bytes OK
-2020/05/28-10:50:59.570 4b9 Delete type=0 #123
+2020/05/28-11:36:28.184 323 Reusing MANIFEST /home/mojojojo/.config/chromium/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/MANIFEST-000001
+2020/05/28-11:36:28.185 323 Recovering log #143
+2020/05/28-11:36:28.235 323 Level-0 table #148: started
+2020/05/28-11:36:28.303 323 Level-0 table #148: 5276785 bytes OK
+2020/05/28-11:36:28.307 323 Delete type=0 #143
+2020/05/28-11:37:29.146 59f Level-0 table #151: started
+2020/05/28-11:37:29.200 59f Level-0 table #151: 5276653 bytes OK
+2020/05/28-11:37:29.202 59f Delete type=0 #149
+2020/05/28-11:40:26.501 59f Level-0 table #153: started
+2020/05/28-11:40:26.569 59f Level-0 table #153: 5276787 bytes OK
+2020/05/28-11:40:26.571 59f Delete type=0 #150

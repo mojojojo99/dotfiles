@@ -1,18 +1,15 @@
-2020/05/28-10:52:14.092 30e Reusing MANIFEST /home/mojojojo/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
-2020/05/28-10:52:14.093 30e Recovering log #85
-2020/05/28-10:52:14.093 30e Reusing old log /home/mojojojo/.config/chromium/Default/Local Storage/leveldb/000085.log 
-2020/05/28-10:52:22.436 4b1 Level-0 table #89: started
-2020/05/28-10:52:22.444 4b1 Level-0 table #89: 84756 bytes OK
-2020/05/28-10:52:22.446 4b1 Delete type=0 #85
-2020/05/28-10:52:22.446 4b1 Compacting 4@0 + 1@1 files
-2020/05/28-10:52:22.464 4b1 Generated table #90@0: 565 keys, 563212 bytes
-2020/05/28-10:52:22.464 4b1 Compacted 4@0 + 1@1 files => 563212 bytes
-2020/05/28-10:52:22.465 4b1 compacted to: files[ 0 1 1 0 0 0 0 ]
-2020/05/28-10:52:22.466 4b1 Delete type=2 #80
-2020/05/28-10:52:22.466 4b1 Delete type=2 #83
-2020/05/28-10:52:22.466 4b1 Delete type=2 #86
-2020/05/28-10:52:22.466 4b1 Delete type=2 #89
-2020/05/28-10:52:22.466 4b1 Delete type=2 #78
-2020/05/28-10:54:42.550 4b1 Level-0 table #92: started
-2020/05/28-10:54:42.558 4b1 Level-0 table #92: 84223 bytes OK
-2020/05/28-10:54:42.561 4b1 Delete type=0 #88
+2020/05/28-12:00:43.589 be3 Reusing MANIFEST /home/mojojojo/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2020/05/28-12:00:43.589 be3 Recovering log #116
+2020/05/28-12:00:43.589 be3 Reusing old log /home/mojojojo/.config/chromium/Default/Local Storage/leveldb/000116.log 
+2020/05/28-12:00:56.872 d38 Level-0 table #120: started
+2020/05/28-12:00:56.881 d38 Level-0 table #120: 91912 bytes OK
+2020/05/28-12:00:56.884 d38 Delete type=0 #116
+2020/05/28-12:00:56.884 d38 Compacting 4@0 + 1@1 files
+2020/05/28-12:00:56.919 d38 Generated table #121@0: 662 keys, 564816 bytes
+2020/05/28-12:00:56.919 d38 Compacted 4@0 + 1@1 files => 564816 bytes
+2020/05/28-12:00:56.921 d38 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/05/28-12:00:56.921 d38 Delete type=2 #114
+2020/05/28-12:00:56.921 d38 Delete type=2 #109
+2020/05/28-12:00:56.921 d38 Delete type=2 #117
+2020/05/28-12:00:56.921 d38 Delete type=2 #120
+2020/05/28-12:00:56.921 d38 Delete type=2 #111

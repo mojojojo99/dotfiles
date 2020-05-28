@@ -1,6 +1,6 @@
-2020/05/28-10:49:58.060 352 Reusing MANIFEST /home/mojojojo/.config/chromium/Default/Sync Data/LevelDB/MANIFEST-000001
-2020/05/28-10:49:58.060 352 Recovering log #62
-2020/05/28-10:49:58.062 352 Reusing old log /home/mojojojo/.config/chromium/Default/Sync Data/LevelDB/000062.log 
-2020/05/28-10:50:11.001 4b9 Level-0 table #66: started
-2020/05/28-10:50:11.008 4b9 Level-0 table #66: 122654 bytes OK
-2020/05/28-10:50:11.012 4b9 Delete type=0 #62
+2020/05/28-11:36:27.753 30a Reusing MANIFEST /home/mojojojo/.config/chromium/Default/Sync Data/LevelDB/MANIFEST-000001
+2020/05/28-11:36:27.753 30a Recovering log #73
+2020/05/28-11:36:27.754 30a Reusing old log /home/mojojojo/.config/chromium/Default/Sync Data/LevelDB/000073.log 
+2020/05/28-11:54:12.449 59f Level-0 table #77: started
+2020/05/28-11:54:12.455 59f Level-0 table #77: 134081 bytes OK
+2020/05/28-11:54:12.458 59f Delete type=0 #73

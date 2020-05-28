@@ -1,22 +1,20 @@
-2020/05/28-10:52:14.517 3d5 Reusing MANIFEST /home/mojojojo/.config/chromium/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/MANIFEST-000001
-2020/05/28-10:52:14.518 3d5 Recovering log #126
-2020/05/28-10:52:14.576 3d5 Level-0 table #129: started
-2020/05/28-10:52:14.642 3d5 Level-0 table #129: 5276792 bytes OK
-2020/05/28-10:52:14.645 3d5 Delete type=0 #126
-2020/05/28-10:53:15.465 4e8 Level-0 table #132: started
-2020/05/28-10:53:15.519 4e8 Level-0 table #132: 5276647 bytes OK
-2020/05/28-10:53:15.521 4e8 Delete type=0 #130
-2020/05/28-10:53:15.523 4e8 Compacting 4@0 + 2@1 files
-2020/05/28-10:53:15.627 4e8 Generated table #133@0: 1 keys, 5276562 bytes
-2020/05/28-10:53:15.630 4e8 Generated table #134@0: 3 keys, 454 bytes
-2020/05/28-10:53:15.630 4e8 Compacted 4@0 + 2@1 files => 5277016 bytes
-2020/05/28-10:53:15.632 4e8 compacted to: files[ 0 2 1 0 0 0 0 ]
-2020/05/28-10:53:15.633 4e8 Delete type=2 #124
-2020/05/28-10:53:15.633 4e8 Delete type=2 #129
-2020/05/28-10:53:15.633 4e8 Delete type=2 #127
-2020/05/28-10:53:15.633 4e8 Delete type=2 #122
-2020/05/28-10:53:15.633 4e8 Delete type=2 #132
-2020/05/28-10:53:15.633 4e8 Delete type=2 #121
-2020/05/28-10:54:29.048 4e8 Level-0 table #136: started
-2020/05/28-10:54:29.119 4e8 Level-0 table #136: 5276804 bytes OK
-2020/05/28-10:54:29.121 4e8 Delete type=0 #131
+2020/05/28-12:00:43.970 c89 Reusing MANIFEST /home/mojojojo/.config/chromium/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/MANIFEST-000001
+2020/05/28-12:00:43.970 c89 Recovering log #152
+2020/05/28-12:00:43.970 c89 Reusing old log /home/mojojojo/.config/chromium/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/000152.log 
+2020/05/28-12:01:45.020 d9b Level-0 table #156: started
+2020/05/28-12:01:45.076 d9b Level-0 table #156: 5277013 bytes OK
+2020/05/28-12:01:45.077 d9b Delete type=0 #152
+2020/05/28-12:01:45.079 d9b Compacting 4@0 + 2@1 files
+2020/05/28-12:01:45.184 d9b Generated table #157@0: 1 keys, 5276548 bytes
+2020/05/28-12:01:45.186 d9b Generated table #158@0: 3 keys, 454 bytes
+2020/05/28-12:01:45.186 d9b Compacted 4@0 + 2@1 files => 5277002 bytes
+2020/05/28-12:01:45.187 d9b compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/05/28-12:01:45.187 d9b Delete type=2 #148
+2020/05/28-12:01:45.187 d9b Delete type=2 #156
+2020/05/28-12:01:45.187 d9b Delete type=2 #145
+2020/05/28-12:01:45.187 d9b Delete type=2 #151
+2020/05/28-12:01:45.187 d9b Delete type=2 #146
+2020/05/28-12:01:45.187 d9b Delete type=2 #153
+2020/05/28-12:02:17.653 d9b Level-0 table #160: started
+2020/05/28-12:02:17.724 d9b Level-0 table #160: 5276792 bytes OK
+2020/05/28-12:02:17.727 d9b Delete type=0 #155
